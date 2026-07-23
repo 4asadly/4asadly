@@ -15,6 +15,17 @@ An Apache-2.0 DataHub agent that detects how upstream schema changes can break d
 - Mutations require explicit approval
 - Public claims remain reproducible
 
+### [FacilityFleet Reference](https://github.com/4asadly/facilityfleet-reference)
+
+A sanitized reference release of a facilities-operations product I first tried to build commercially in 2025. The commercial launch did not happen, so this version focuses on one honest, complete workflow: explain asset risk, show the operational reason, and let a person create the work order.
+
+[Open the live operations console](https://4asadly.github.io/facilityfleet-reference/)
+
+- Explainable deterministic asset-risk scoring
+- Three fictional facilities with maintenance and energy views
+- Session-only work orders with no external services or credentials
+- Five automated tests running through GitHub Actions
+
 ## Stack
 
 Python · TypeScript · FastAPI · MCP · n8n · Supabase · React
