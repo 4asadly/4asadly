@@ -1,16 +1,29 @@
-## Hi there 👋
+# Asad Abbas Sheikh
 
-<!--
-**4asadly/4asadly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build evidence-first AI automation and data reliability systems.
 
-Here are some ideas to get you started:
+## Current open-source work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Workflow Lineage Guard](https://github.com/4asadly/workflow-lineage-guard)
+
+An Apache-2.0 DataHub agent that detects how upstream schema changes can break downstream n8n workflows, records exact JSON-pointer evidence, and generates conservative, reviewable repairs.
+
+- Deterministic analysis owns correctness
+- Agent orchestration adds context and explanation
+- Mutations require explicit approval
+- Public claims remain reproducible
+
+## Stack
+
+Python · TypeScript · FastAPI · MCP · n8n · Supabase · React
+
+## Current focus
+
+Hardening live DataHub integration, expanding workflow coverage, and building practical open-source automation tools.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/asad-sheikh-611664354/)
+- [X](https://x.com/4asadly)
+
+Based in Rawalpindi, Pakistan.
