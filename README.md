@@ -8,7 +8,7 @@ I build evidence-first AI automation and data reliability systems.
 
 An Apache-2.0 DataHub agent that detects how upstream schema changes can break downstream n8n workflows, records exact JSON-pointer evidence, and generates conservative, reviewable repairs.
 
-[Try the interactive browser demo](https://workflow-lineage-guard-demo.sweet-hake-1733.chatgpt.site)
+[Try the interactive browser demo](https://workflow-lineage-guard.onrender.com)
 
 - Deterministic analysis owns correctness
 - Agent orchestration adds context and explanation
